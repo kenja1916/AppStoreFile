@@ -1,0 +1,10 @@
+# Meme-Generator - Cteate
+## Support
+
+The image resources are all provided by imgflip api service. The docs tell that "Requests to the API may be rate-limited if you make a lot of requests.", which means the service may be unavailable or limited somehow.
+
+I'll keep tracking the accessability to the service, and fix the rate-limited problem as soon as possible if it occur. Therefore, if the app keep showing "internet error" while your internet is available, just come back tomorrow and it may be solved.
+
+Please contanct me with questions or suggestions.
+
+Email: ken40707@gmail.com
