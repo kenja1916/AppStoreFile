@@ -5,6 +5,6 @@ The image resources are all provided by imgflip api service. The docs tell that 
 
 I'll keep tracking the accessability to the service, and fix the rate-limited problem as soon as possible if it occur. Therefore, if the app keeps showing "internet error" while your internet is available, just come back tomorrow and it may be solved.
 
-Please contanct me with questions or suggestions.
+Please contact me with questions or suggestions.
 
 Email: ken40707@gmail.com
