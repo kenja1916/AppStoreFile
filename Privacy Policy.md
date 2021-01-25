@@ -139,4 +139,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 
-- By email: ken40707@gmail.com
+- By email: kenforwk@gmail.com
